@@ -1,0 +1,12 @@
+body{
+    display: grid;
+    place-items: center;
+}
+
+
+.grid{
+    width:400px;
+    height: 308px;
+    border: solid 5px black;
+    
+}
